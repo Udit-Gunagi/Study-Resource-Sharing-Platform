@@ -1,6 +1,6 @@
 // ─── CONFIG ───────────────────────────────────────────────────
 // Change this to your deployed backend URL (e.g. https://studyshare-api.onrender.com)
-const API_BASE = window.BACKEND_URL || 'http://localhost:5000';
+const API_BASE = window.BACKEND_URL || 'https://study-resource-sharing-platform-uldg.onrender.com';
 const API = `${API_BASE}/api`;
 
 // ─── AUTH ─────────────────────────────────────────────────────
