@@ -8,7 +8,9 @@ A full-stack web platform where students can upload, share, browse, and download
 
 👉 [View Live Project](https://study-resource-sharing-platform-frontend.onrender.com)
 
-> ⚠️ **Note:** The backend is hosted on Render's free tier. If the site hasn't been visited in a while, it may take **10–20 seconds** to wake up on the first load.
+> ⚠️ **Note:** The backend is hosted on Render's free tier. It may take **10–20 seconds** to wake up on the first load.
+
+> 🧪 **To test the project**, login using — **Email:** `group-project@gmail.com` &nbsp;|&nbsp; **Password:** `group-project`
 
 ---
 
