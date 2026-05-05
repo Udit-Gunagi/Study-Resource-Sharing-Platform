@@ -136,7 +136,11 @@ python3 -m http.server 3000
 
 ---
 
-## 👤 Author
+## 👨‍💻 Team
 
-*Udit U Gunagi*
-- GitHub: [@Udit-Gunagi](https://github.com/Udit-Gunagi)
+Built as a group project during a **Glowlogics Solutions Pvt Ltd Internship**.
+
+- Pranay S Chinchankar
+- Udit U Gunagi
+- Sahil S Vernekar
+
